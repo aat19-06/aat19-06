@@ -18,4 +18,4 @@ Python & Backend Development
 Building AI applications that solve real problems
 
 I'm always open to learning from others, collaborating on interesting ideas, and contributing to projects that make a difference.
-Thanks for stopping by. I hope you find something here worth exploring.🐬
+Thanks for stopping by. I hope you find something here worth exploring. 🐬
