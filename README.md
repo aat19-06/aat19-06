@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a third-year **B.E. Artificial Intelligence & Machine Learning** student from Nagercoil, Tamil Nadu, focused on building **LLM-powered applications and agentic systems** that are reliable, grounded, and testable.
+I'm a third-year **B.E. Artificial Intelligence & Machine Learning** student from Tamil Nadu, focused on building **LLM-powered applications and agentic systems** that are reliable, grounded, and testable.
 
 - 🧠 Building **multi-agent workflows** with LangGraph, LangChain, and CrewAI
 - 🔎 Designing **RAG pipelines** with FAISS and ChromaDB that cite real evidence instead of hallucinating
